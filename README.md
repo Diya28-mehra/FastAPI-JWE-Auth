@@ -5,21 +5,34 @@ This project demonstrates how to implement JSON Web Encryption (JWE) with FastAP
 
 
 Features 🌟
+
 User Registration: Secure user sign-up with password hashing and email validation.
+
 User Login: Log in with email and password to receive a secure encrypted JWT (JWE).
+
 Token-Based Authentication: Authenticate API requests using JWE tokens to ensure data privacy.
+
 FastAPI: Built with the powerful FastAPI framework, providing high performance and automatic documentation.
+
 Secure Encryption: Use of JWE to protect sensitive user data in tokens.
+
 Swagger UI: Auto-generated interactive API documentation powered by FastAPI.
 
 
 Technologies Used 🛠️
+
 FastAPI: A modern, fast web framework for building APIs with Python.
+
 Python: The core programming language used in this project.
+
 PyJWT: A library used to work with JWT tokens.
+
 Cryptography: Used to handle JWE encryption and decryption.
+
 SQLite: Database for storing user data (can be swapped for other databases).
+
 Uvicorn: ASGI server to run the FastAPI app.
+
 Pydantic: Data validation and settings management for FastAPI.
 
 
