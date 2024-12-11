@@ -1,4 +1,4 @@
-##FastAPI JWE Authentication 🔐
+####FastAPI JWE Authentication 🔐
 
 Welcome to the FastAPI JWE Authentication project!
 This project demonstrates how to implement JSON Web Encryption (JWE) with FastAPI to securely handle user authentication in a web application. It includes user registration, login, and token-based authentication, with a focus on encryption for added security.
